@@ -1,6 +1,6 @@
 # vue-meetup
 
-> A Vue.js project
+> A Vue.js project - Dev MeetUp
 
 ## Build Setup
 
